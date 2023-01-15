@@ -1,0 +1,11 @@
+{
+  "tic": {
+    "ticExecutable": "/usr/bin/tic80"
+  },
+  "compression": {
+    "compressedFile": "build/compressed.js",
+    "indentLevel": 1,
+    "compress": false,
+    "mangle": false
+  }
+}
